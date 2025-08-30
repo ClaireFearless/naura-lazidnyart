@@ -1,0 +1,4 @@
+/* Styling spesifik buat komponen App */
+.hero-title {
+  @apply text-3xl font-bold text-blue-500;
+}
